@@ -1,3 +1,9 @@
+[project]
+name = "hsl"
+version = "1.0.4"
+license = "MIT"
+license-files = ["LICENCE*"]
+
 [build-system]
 requires = ["setuptools", "wheel", "Cython"]
 build-backend = "setuptools.build_meta"
